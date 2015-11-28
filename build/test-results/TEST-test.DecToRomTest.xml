@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="test.DecToRomTest" tests="5" failures="0" errors="0" timestamp="2015-11-28T15:31:13" hostname="localhost.localdomain" time="0.008">
+  <properties/>
+  <testcase name="pruebaCon_0" classname="test.DecToRomTest" time="0.002"/>
+  <testcase name="pruebaCon_1" classname="test.DecToRomTest" time="0.0"/>
+  <testcase name="pruebaCon_1000" classname="test.DecToRomTest" time="0.001"/>
+  <testcase name="pruebaCon_111" classname="test.DecToRomTest" time="0.0"/>
+  <testcase name="pruebaCon_11" classname="test.DecToRomTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
